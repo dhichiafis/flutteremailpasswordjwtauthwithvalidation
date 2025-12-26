@@ -1,17 +1,3 @@
-# form_validation
-# form validation with jwt and reactive navigation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# form validation in flutter with jwt authentication and reactive navigation
+we are building a project that uses reactive navigation meaning that based on the central authentication provider by global state 
+we can decide whether the user is authenticated and redirect based on that state or stay on the current login page
